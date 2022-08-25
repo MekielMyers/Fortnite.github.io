@@ -1,0 +1,143 @@
+.menu{
+    position: sticky;
+    top: 0%;
+    display: flex;
+    background-color: rgba(47, 79, 79, 0.604);
+    color: lightcyan;
+    padding: 15px;
+    justify-content: space-around;
+    z-index: 2;
+
+}
+
+.item{
+    text-align: center;
+    padding: 10px;
+    font-size: 32px;
+}
+body{
+    margin:0%;
+    background-image: linear-gradient(rgb(79, 228, 153), rgb(55, 218, 233),rgb(107, 229, 117));
+}
+.content{
+    position: relative;
+}
+header img{
+    width:100vw;
+    height:300px;
+    }
+
+#bruh{
+    margin-left:100px;
+    border:100px;
+    width:200px;
+    height:200px;
+    background-color: black;
+    margin-bottom:20px;
+}
+#no{
+    margin-left:800px;
+    width:390px;
+    height:250px;
+    
+    margin-top:-150px;
+}
+#no >p{
+    float:right;
+
+    text-align:justify;
+    color:black;
+    font-size:30px;
+}
+    
+    #moreinfo{
+        padding-top:10%;
+        font-size:30px;
+        /* margin-left:5%; */
+        /* height:100px; */
+        margin-top:15%;
+        text-align:center;
+        width:660px;
+        display: flex;
+        align-items: flex-start;
+        justify-content: space-evenly;
+        width: 100vw;
+        
+        
+    }
+    #moreinfo p {
+        width: 60%;
+        margin: 0;
+    }
+    #fortymap{
+        /* padding-bottom:10%; */
+        /* margin-left:60%; */
+        margin-top:0%;
+        margin-bottom:5%;
+    }
+
+    #EPGM{
+       float:middle;
+       margin-left:30rem;
+    }
+    #FM{
+        float:left
+    }
+    #link{
+        margin-left:1rem;
+        font-size:30px;
+    }
+        .FBP{
+            position: relative;
+            text-align: center;
+            font-size: 50px;
+            font-family: 'Anton', sans-serif;
+            color: rgb(36, 199, 182);
+            text-shadow: 2px 2px 2px rgb(0, 0, 0);
+            
+        }
+        .secy{
+            width:100%;
+            display:flex;
+            flex-direction:row;
+        }
+        .divy1{
+            width: 200px;
+            height: 200px;
+            background-color: lightseagreen;
+            padding: 15px;
+            border: 5px solid black;
+            border-radius: 25px;
+            margin-top: 70px;
+            margin-left: 100px;
+        }
+        .divy2{
+            width: 200px;
+            height: 200px;
+            background-color: lightseagreen;
+            padding: 15px;
+            border: 5px solid black;
+            border-radius: 25px;
+            margin-top: 70px;
+            margin-left: 100px;
+        }
+        .divy3{
+            width: 200px;
+            height: 200px;
+            background-color: lightseagreen;
+            padding: 15px;
+            border: 5px solid black;
+            border-radius: 25px;
+            margin-top: 70px;
+            margin-left: 100px;
+        }
+        .divy4{
+            width: 200px;
+            height: 200px;
+            background-color: lightseagreen;
+            padding: 15px;
+            border: 5px solid black;
+            border-radius: 25px;
+            margin-top: 70px;
+            margin-left: 100px;
+        }
